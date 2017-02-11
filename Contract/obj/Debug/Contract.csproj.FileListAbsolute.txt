@@ -1,0 +1,35 @@
+D:\Учеба\NP\Lesson 3\Chat\Contract\bin\Debug\Contract.dll
+D:\Учеба\NP\Lesson 3\Chat\Contract\bin\Debug\Contract.pdb
+D:\Учеба\NP\Lesson 3\Chat\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Lesson 3\Chat\Contract\obj\Debug\Contract.dll
+D:\Учеба\NP\Lesson 3\Chat\Contract\obj\Debug\Contract.pdb
+D:\19PV51\NP\Chat\Contract\bin\Debug\Contract.dll
+D:\19PV51\NP\Chat\Contract\bin\Debug\Contract.pdb
+D:\19PV51\NP\Chat\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\19PV51\NP\Chat\Contract\obj\Debug\Contract.dll
+D:\19PV51\NP\Chat\Contract\obj\Debug\Contract.pdb
+D:\Учеба\NP\Exam\Chat\Contract\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam\Chat\Contract\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam\Chat\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam\Chat\Contract\obj\Debug\Contract.dll
+D:\Учеба\NP\Exam\Chat\Contract\obj\Debug\Contract.pdb
+D:\19PV51\NP\Exam\Chat\Contract\bin\Debug\Contract.dll
+D:\19PV51\NP\Exam\Chat\Contract\bin\Debug\Contract.pdb
+D:\19PV51\NP\Exam\Chat\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\19PV51\NP\Exam\Chat\Contract\obj\Debug\Contract.dll
+D:\19PV51\NP\Exam\Chat\Contract\obj\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 2\Contract\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 2\Contract\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 2\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 2\Contract\obj\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 2\Contract\obj\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 3\Contract\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 3\Contract\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 3\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 3\Contract\obj\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 3\Contract\obj\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 4\Contract\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 4\Contract\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 4\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 4\Contract\obj\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 4\Contract\obj\Debug\Contract.pdb

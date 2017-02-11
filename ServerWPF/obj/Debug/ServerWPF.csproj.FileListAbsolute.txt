@@ -1,0 +1,115 @@
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\bin\Debug\ServerWPF.exe
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\bin\Debug\ServerWPF.pdb
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\bin\Debug\Contract.dll
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\bin\Debug\Contract.pdb
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\App.g.cs
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF.g.resources
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF.exe
+D:\Учеба\NP\Lesson 3\Chat\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\19PV51\NP\Chat\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF.exe
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\19PV51\NP\Chat\ServerWPF\bin\Debug\ServerWPF.exe
+D:\19PV51\NP\Chat\ServerWPF\bin\Debug\ServerWPF.pdb
+D:\19PV51\NP\Chat\ServerWPF\bin\Debug\Contract.dll
+D:\19PV51\NP\Chat\ServerWPF\bin\Debug\Contract.pdb
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\MainWindow.g.cs
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\App.g.cs
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\MainWindow.baml
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF.g.resources
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+D:\19PV51\NP\Chat\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam\Chat\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam\Chat\ServerWPF\bin\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam\Chat\ServerWPF\bin\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam\Chat\ServerWPF\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam\Chat\ServerWPF\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.g.resources
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+D:\Учеба\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+D:\19PV51\NP\Exam\Chat\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.exe
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\19PV51\NP\Exam\Chat\ServerWPF\bin\Debug\ServerWPF.exe
+D:\19PV51\NP\Exam\Chat\ServerWPF\bin\Debug\ServerWPF.pdb
+D:\19PV51\NP\Exam\Chat\ServerWPF\bin\Debug\Contract.dll
+D:\19PV51\NP\Exam\Chat\ServerWPF\bin\Debug\Contract.pdb
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\MainWindow.g.cs
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\App.g.cs
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\MainWindow.baml
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.g.resources
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+D:\19PV51\NP\Exam\Chat\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam2\Chat\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\Учеба\NP\Exam2\Chat\ServerWPF\obj\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam2\Chat\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\bin\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\bin\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF.g.resources
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+D:\Учеба\NP\Exam2\Chat 2\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\bin\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\bin\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF.g.resources
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+D:\Учеба\NP\Exam2\Chat 3\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\bin\Debug\ServerWPF.exe.config
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\bin\Debug\ServerWPF.exe
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\bin\Debug\ServerWPF.pdb
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.cache
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF_MarkupCompile.lref
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF.g.resources
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF.Properties.Resources.resources
+D:\Учеба\NP\Exam2\Chat 4\ServerWPF\obj\Debug\ServerWPF.csproj.GenerateResource.Cache

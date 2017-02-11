@@ -1,0 +1,129 @@
+D:\Учеба\NP\Lesson 3\Chat\Client\bin\Debug\Client.exe.config
+D:\Учеба\NP\Lesson 3\Chat\Client\bin\Debug\Client.exe
+D:\Учеба\NP\Lesson 3\Chat\Client\bin\Debug\Client.pdb
+D:\Учеба\NP\Lesson 3\Chat\Client\bin\Debug\Contract.dll
+D:\Учеба\NP\Lesson 3\Chat\Client\bin\Debug\Contract.pdb
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Authentification.g.cs
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\App.g.cs
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Authentification.baml
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client.g.resources
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client.exe
+D:\Учеба\NP\Lesson 3\Chat\Client\obj\Debug\Client.pdb
+D:\19PV51\NP\Chat\Client\bin\Debug\Client.exe.config
+D:\19PV51\NP\Chat\Client\obj\Debug\Client.exe
+D:\19PV51\NP\Chat\Client\obj\Debug\Client.pdb
+D:\19PV51\NP\Chat\Client\bin\Debug\Client.exe
+D:\19PV51\NP\Chat\Client\bin\Debug\Client.pdb
+D:\19PV51\NP\Chat\Client\bin\Debug\Contract.dll
+D:\19PV51\NP\Chat\Client\bin\Debug\Contract.pdb
+D:\19PV51\NP\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\19PV51\NP\Chat\Client\obj\Debug\Authentification.g.cs
+D:\19PV51\NP\Chat\Client\obj\Debug\MainWindow.g.cs
+D:\19PV51\NP\Chat\Client\obj\Debug\App.g.cs
+D:\19PV51\NP\Chat\Client\obj\Debug\Client_MarkupCompile.cache
+D:\19PV51\NP\Chat\Client\obj\Debug\Client_MarkupCompile.lref
+D:\19PV51\NP\Chat\Client\obj\Debug\Authentification.baml
+D:\19PV51\NP\Chat\Client\obj\Debug\MainWindow.baml
+D:\19PV51\NP\Chat\Client\obj\Debug\Client.g.resources
+D:\19PV51\NP\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\19PV51\NP\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam\Chat\Client\bin\Debug\Client.exe.config
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client.exe
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client.pdb
+D:\Учеба\NP\Exam\Chat\Client\bin\Debug\Client.exe
+D:\Учеба\NP\Exam\Chat\Client\bin\Debug\Client.pdb
+D:\Учеба\NP\Exam\Chat\Client\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam\Chat\Client\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Authentification.g.cs
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Authentification.baml
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client.g.resources
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Учеба\NP\Exam\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\19PV51\NP\Exam\Chat\Client\bin\Debug\Client.exe.config
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client.exe
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client.pdb
+D:\19PV51\NP\Exam\Chat\Client\bin\Debug\Client.exe
+D:\19PV51\NP\Exam\Chat\Client\bin\Debug\Client.pdb
+D:\19PV51\NP\Exam\Chat\Client\bin\Debug\Contract.dll
+D:\19PV51\NP\Exam\Chat\Client\bin\Debug\Contract.pdb
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Authentification.g.cs
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\MainWindow.g.cs
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\App.g.cs
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client_MarkupCompile.cache
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client_MarkupCompile.lref
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Authentification.baml
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\MainWindow.baml
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client.g.resources
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\19PV51\NP\Exam\Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam2\Chat\Client\bin\Debug\Client.exe.config
+D:\Учеба\NP\Exam2\Chat\Client\obj\Debug\Client.exe
+D:\Учеба\NP\Exam2\Chat\Client\obj\Debug\Client.pdb
+D:\Учеба\NP\Exam2\Chat 2\Client\bin\Debug\Client.exe.config
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client.exe
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client.pdb
+D:\Учеба\NP\Exam2\Chat 2\Client\bin\Debug\Client.exe
+D:\Учеба\NP\Exam2\Chat 2\Client\bin\Debug\Client.pdb
+D:\Учеба\NP\Exam2\Chat 2\Client\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 2\Client\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Authentification.g.cs
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Authentification.baml
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client.g.resources
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Учеба\NP\Exam2\Chat 2\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam2\Chat 3\Client\bin\Debug\Client.exe.config
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client.exe
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client.pdb
+D:\Учеба\NP\Exam2\Chat 3\Client\bin\Debug\Client.exe
+D:\Учеба\NP\Exam2\Chat 3\Client\bin\Debug\Client.pdb
+D:\Учеба\NP\Exam2\Chat 3\Client\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 3\Client\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Authentification.g.cs
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Authentification.baml
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client.g.resources
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Учеба\NP\Exam2\Chat 3\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Учеба\NP\Exam2\Chat 4\Client\bin\Debug\Client.exe.config
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client.exe
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client.pdb
+D:\Учеба\NP\Exam2\Chat 4\Client\bin\Debug\Client.exe
+D:\Учеба\NP\Exam2\Chat 4\Client\bin\Debug\Client.pdb
+D:\Учеба\NP\Exam2\Chat 4\Client\bin\Debug\Contract.dll
+D:\Учеба\NP\Exam2\Chat 4\Client\bin\Debug\Contract.pdb
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Authentification.g.cs
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\MainWindow.g.cs
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\App.g.cs
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client_MarkupCompile.cache
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client_MarkupCompile.lref
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Authentification.baml
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\MainWindow.baml
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client.g.resources
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Учеба\NP\Exam2\Chat 4\Client\obj\Debug\Client.csproj.GenerateResource.Cache
